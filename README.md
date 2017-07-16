@@ -27,7 +27,8 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/cDRBD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+# Cybersecurity-Pre-Workdd
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -40,7 +41,7 @@ There seemed to be some inconsistencies in the hints/instructions for the challe
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Ana Malhotra]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
