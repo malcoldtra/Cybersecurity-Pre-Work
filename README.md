@@ -27,7 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/cDRBD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/LGVtjuI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 # Cybersecurity-Pre-Workdd
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
