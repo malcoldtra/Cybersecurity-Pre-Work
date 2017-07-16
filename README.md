@@ -7,9 +7,9 @@ This is my (Ana Malhotra's) submission of the Cybersecurity Pre-Work.
 It includes:
 * Completed functionality information
 * Video walkthrough, featuring:
-** Username on Security Shepard
-** Completed challenges on Security Shepard
-** Usage of Burp
+-* Username on Security Shepard
+-* Completed challenges on Security Shepard
+-* Usage of Burp
 * Notes on challenges encountered
 * Installation instructions and additional tips
 * License information
