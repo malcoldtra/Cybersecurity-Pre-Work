@@ -1,5 +1,20 @@
 #Cybersecurity Pre-Work - *anam1105* 
 
+## Description
+
+This is my (Ana Malhotra's) submission of the Cybersecurity Pre-Work.
+
+It includes:
+* Completed functionality information
+* Video walkthrough, featuring:
+** Username on Security Shepard
+** Completed challenges on Security Shepard
+** Usage of Burp
+* Notes on challenges encountered
+* Installation instructions and additional tips
+* License information
+
+
 Time spent: **3** hours spent in total 
 
 ## User Stories
@@ -28,7 +43,6 @@ The following advanced user stories are optional:
 Here's a walkthrough of implemented user stories:
 
 <img src='cybersecurity-pre-work-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-# Cybersecurity-Pre-Workdd
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,6 +52,16 @@ Setup seemed to be the most difficult part of the pre-work. The issue seemed to 
 
 There seemed to be some inconsistencies in the hints/instructions for the challenges. For example, the Challenge 2 CodePath instructions stated "...figure out which *URL* is being used..." where as the Security Shepard instructions asked for *URI* and the linked Quora thread used the term *UFI*. The different terms threw me off a bit.
 
+## Installation Instructions
+
+Installation and setup of Pre-Work was done by following [these instructions](https://courses.codepath.com/snippets/cyber_security_university/prework).
+
+Some additional notes to take into consideration when working on macOS:
+* If running into issues regarding slow page loads when the proxy is enabled, try using a different browser such as Chrome or Firefox.
+* If using Safari and unable to authorize Burp's CA Certificate, try using the Keychain Access utility app to single out the certificate and authorize.
+
+Some additional notes when using Burp:
+*When adding Facebook URLs to scope, make sure not to add a specific URL. Make sure all Facebook URLs are in scope. 
 
 ## License
 
